@@ -1,3 +1,3 @@
 # HatGame
 
-https://slphyx.shinyapps.io/HatGame/
+https://moru.shinyapps.io/hatgame/
