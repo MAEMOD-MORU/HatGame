@@ -1,0 +1,12 @@
+img.logo{
+  width: 250px;
+  float: right;
+  margin-top: 15px;
+}
+#Network{
+  width: 1200px;
+  height: 1200px;
+}
+.warning{
+  color: red;
+}
